@@ -61,7 +61,7 @@ sipheron verify ./contract.pdf
 
 | Repository | Description | License | Status |
 |------------|-------------|---------|--------|
-| [vdr-core](https://github.com/SipHeron-VDR/vdr-core) | Core verification library — SHA-256 hashing, Solana anchoring, public verification | Apache 2.0 | Public |
+| [vdr-core](https://github.com/SipHeron-VDR/vdr-core) | Core verification library — SHA-256 hashing, Solana anchoring, public verification | MIT | Public |
 | [vdr-cli](https://github.com/SipHeron-VDR/vdr-cli) | Command line tool — anchor and verify from your terminal | MIT | Public |
 | [vdr-js](https://github.com/SipHeron-VDR/vdr-js) | JavaScript and TypeScript SDK | Apache 2.0 | Public |
 | [vdr-python](https://github.com/SipHeron-VDR/vdr-python) | Python SDK | Apache 2.0 | Public |
