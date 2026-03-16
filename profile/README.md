@@ -61,14 +61,14 @@ sipheron verify ./contract.pdf
 
 | Repository | Description | License | Status |
 |------------|-------------|---------|--------|
-| [sipheron-core](https://github.com/SipHeron-VDR/sipheron-core) | Core verification library — SHA-256 hashing, Solana anchoring, public verification | Apache 2.0 | Public |
-| [sipheron-cli](https://github.com/SipHeron-VDR/sipheron-cli) | Command line tool — anchor and verify from your terminal | MIT | Public |
-| [sipheron-js](https://github.com/SipHeron-VDR/sipheron-js) | JavaScript and TypeScript SDK | Apache 2.0 | Public |
-| [sipheron-python](https://github.com/SipHeron-VDR/sipheron-python) | Python SDK | Apache 2.0 | Public |
-| [sipheron-protocol](https://github.com/SipHeron-VDR/sipheron-protocol) | Open verification protocol specification | CC BY 4.0 | Public |
-| [sipheron-docs](https://github.com/SipHeron-VDR/sipheron-docs) | Complete public documentation | CC BY 4.0 | Public |
-| [sipheron-examples](https://github.com/SipHeron-VDR/sipheron-examples) | Integration examples for popular platforms | MIT | Public |
-| [sipheron-embed](https://github.com/SipHeron-VDR/sipheron-embed) | Embeddable verification widget for websites | Apache 2.0 | Public |
+| [vdr-core](https://github.com/SipHeron-VDR/vdr-core) | Core verification library — SHA-256 hashing, Solana anchoring, public verification | Apache 2.0 | Public |
+| [vdr-cli](https://github.com/SipHeron-VDR/vdr-cli) | Command line tool — anchor and verify from your terminal | MIT | Public |
+| [vdr-js](https://github.com/SipHeron-VDR/vdr-js) | JavaScript and TypeScript SDK | Apache 2.0 | Public |
+| [vdr-python](https://github.com/SipHeron-VDR/vdr-python) | Python SDK | Apache 2.0 | Public |
+| [vdr-protocol](https://github.com/SipHeron-VDR/vdr-protocol) | Open verification protocol specification | CC BY 4.0 | Public |
+| [vdr-docs](https://github.com/SipHeron-VDR/vdr-docs) | Complete public documentation | CC BY 4.0 | Public |
+| [vdr-examples](https://github.com/SipHeron-VDR/vdr-examples) | Integration examples for popular platforms | MIT | Public |
+| [vdr-embed](https://github.com/SipHeron-VDR/vdr-embed) | Embeddable verification widget for websites | Apache 2.0 | Public |
 
 ---
 
@@ -128,7 +128,7 @@ That is the design. That is the point.
 
 The complete specification of how SipHeron's anchoring and verification
 protocol works is publicly documented in
-[sipheron-protocol](https://github.com/SipHeron-VDR/sipheron-protocol).
+[vdr-protocol](https://github.com/SipHeron-VDR/vdr-protocol).
 
 It is written so that any developer can implement it independently,
 verify proofs without SipHeron's involvement, and build compatible tooling.
