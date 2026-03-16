@@ -146,7 +146,7 @@ A black box is not trustworthy infrastructure. An open specification is.
 | Business | 10,000/month | 10 | $99/month |
 | Enterprise | Unlimited | Unlimited | Custom |
 
-[Get your free API key →](https://sipheron.com)
+[Get your free API key →](https://app.sipheron.com)
 No credit card. No commitment. 100 free anchors every month.
 
 ---
@@ -162,16 +162,15 @@ No credit card. No commitment. 100 free anchors every month.
 | CLI | 🟢 Operational |
 | Mainnet | 🔵 Coming Soon |
 
-[status.sipheron.com](https://status.sipheron.com)
+[app.sipheron.com](https://app.sipheron.com)
 
 ---
 
 ## Links
 
-- 🌐 Website: [sipheron.com](https://sipheron.com)
-- 📖 Documentation: [docs.sipheron.com](https://docs.sipheron.com)
-- 🛝 Playground: [play.sipheron.com](https://play.sipheron.com)
-- 📊 Status: [status.sipheron.com](https://status.sipheron.com)
+- 🌐 Website: [app.sipheron.com](https://app.sipheron.com)
+- 📖 Documentation: [app.sipheron.com/docs](https://app.sipheron.com/docs)
+- 🛝 Playground: [app.sipheron.com/playground](https://sipheron.com/playground)
 - 🐦 Twitter: [@SipHeronVDR](https://twitter.com/SipHeronVDR)
 - 💬 Discord: [discord.gg/sipheron](https://discord.gg/sipheron)
 - 📧 Contact: [hello@sipheron.com](mailto:hello@sipheron.com)
