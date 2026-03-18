@@ -171,9 +171,9 @@ No credit card. No commitment. 100 free anchors every month.
 - 🌐 Website: [app.sipheron.com](https://app.sipheron.com)
 - 📖 Documentation: [app.sipheron.com/docs](https://app.sipheron.com/docs)
 - 🛝 Playground: [app.sipheron.com](https://app.sipheron.com/playground)
-- 🐦 X: [@SipHeronVDR](https://x.com/SipHeronVDR)
+- 🐦 X: [@Sip_Heron](https://x.com/Sip_Heron)
 - 💬 Discord: [discord.gg/sipheron](https://discord.gg/sipheron)
-- 📧 Contact: [hello@sipheron.com](mailto:hello@sipheron.com)
+- 📧 Contact: [dev@sipheron.com](mailto:dev@sipheron.com)
 
 ---
 
